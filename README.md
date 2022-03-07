@@ -2,10 +2,13 @@
 
 <!--
 **zaidm124/zaidm124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Visitor Count](https://profile-counter.glitch.me/{zaidm124}/count.svg)
+-![Visitor Count](https://profile-counter.glitch.me/{zaidm124}/count.svg)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidm124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 Here are some ideas to get you started:
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${})
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
