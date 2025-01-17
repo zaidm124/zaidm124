@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidm124&label=Profile%20views&color=0e75b6&style=flat" alt="zaidm124" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and algorithms**
-
-- 💬 Ask me about **MERN stak**
-
 - 📫 How to reach me **zaidm124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
